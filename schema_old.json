@@ -1,0 +1,137 @@
+{
+  "current": {
+    "colors_accent_1": "#9196ac",
+    "colors_accent_2": "#363945",
+    "colors_text": "#2d2d2d",
+    "colors_outline_button_labels": "#9196ac",
+    "colors_background_1": "#FFFFFF",
+    "colors_background_2": "#f3f2f5",
+    "type_header_font": "poppins_n6",
+    "type_body_font": "nunito_n4",
+    "favicon": "shopify:\/\/shop_images\/sense-favicon.png",
+    "social_twitter_link": "https:\/\/twitter.com",
+    "social_facebook_link": "https:\/\/facebook.com\/",
+    "social_pinterest_link": "https:\/\/pinterest.com\/",
+    "social_instagram_link": "http:\/\/instagram.com\/",
+    "social_tiktok_link": "",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "8178cc7b-0d9a-49f2-8c8d-244f7cd9cd58": {
+            "type": "announcement",
+            "settings": {
+              "enable_country_selector": true,
+              "text": "NOW OFFERING WAIT OLD OK",
+              "phone": "1.800.555.555",
+              "phone_link": "tel:+18005555555",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/pages\/contact"
+            }
+          }
+        },
+        "block_order": [
+          "8178cc7b-0d9a-49f2-8c8d-244f7cd9cd58"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "3f2224b9-f862-4bcb-90f1-c1ac83101201": {
+            "type": "megamenu",
+            "settings": {
+              "menu_title": "Shop By Collection",
+              "menu_btn": "",
+              "menu_btn_link": "",
+              "featured_product": "classic-couch",
+              "shop_by_product_label": "Shop By Product",
+              "shop_by_product": "all"
+            }
+          }
+        },
+        "block_order": [
+          "3f2224b9-f862-4bcb-90f1-c1ac83101201"
+        ],
+        "settings": {
+          "logo_width": 200,
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true,
+          "enable_full_width": false,
+          "popup_title": "Latest from Sense",
+          "popup_text": "Be the first to know about exciting new designs, special events and much more.",
+          "modalLinkText": "",
+          "modalLinkUrl": "",
+          "newsletter_enable": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "3d6cb0c8-b218-4e38-92ae-9bf830632eb5": {
+            "type": "text",
+            "settings": {
+              "heading": "ABOUT SENSE",
+              "subtext": "<p>Tell your customers more about your company. <\/p>",
+              "text_show_social": false
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "QUICK LINKS",
+              "menu": ""
+            }
+          },
+          "03830fe6-ea4f-456f-98f9-989078f9231c": {
+            "type": "link_list",
+            "settings": {
+              "heading": "SUPPORT",
+              "menu": ""
+            }
+          },
+          "63aaeed3-264d-4c4c-9515-c8ae24c4068f": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_heading": "NEWSLETTER",
+              "newsletter_show_social": true
+            }
+          },
+	"64aaeed4-264d-4c4c-9515-c8ae24c4068f": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_heading": "NEWSLETTER",
+              "newsletter_show_social": true
+            }
+          }
+        },
+        "block_order": [
+          "3d6cb0c8-b218-4e38-92ae-9bf830632eb5",
+          "footer-0",
+          "03830fe6-ea4f-456f-98f9-989078f9231c",
+          "63aaeed3-264d-4c4c-9515-c8ae24c4068f"
+        ],
+        "settings": {
+          "logo_width": 160,
+          "color_scheme": "background-1",
+          "show_social": false,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      },
+      "cart-drawer-template": {
+        "type": "cart-drawer-template",
+        "settings": {
+          "collection": "featured-products"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
